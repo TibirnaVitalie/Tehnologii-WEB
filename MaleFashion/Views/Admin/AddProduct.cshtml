@@ -1,0 +1,94 @@
+﻿@{
+     Layout = "~/Views/Shared/_Layout_Blank.cshtml";
+     ViewBag.Title = "Add Product";
+}
+@model MaleFashion.Web.Models.NewProductData
+
+<!-- Product-add begin -->
+<section class="login p-fixed d-flex text-center bg-primary common-img-bg">
+     <!-- Container-fluid starts -->
+     <div class="container">
+          <div class="row">
+               <div class="col-sm-12">
+                    <!-- Authentication card start -->
+                    <div class="login-card card-block auth-body mr-auto ml-auto">
+                         <form class="md-float-material">
+                              <div class="text-center mb-5">
+                                   <img src="~/Images/logo.png" alt="logo.png" />
+                              </div>
+                              <div class="auth-box">
+                                   @using (Html.BeginForm("ProductAdd", "Product", FormMethod.Post, new { autocomplete = "off" })) { }
+                                   @using (Html.BeginForm("ProductAdd", "Product", FormMethod.Post, new { autocomplete = "off" }))
+                                   {
+                                        @Html.AntiForgeryToken()
+                                        <div class="row">
+                                             <div class="col-md-12">
+                                                  <h3 class="text-left txt-primary">Add product</h3>
+                                             </div>
+                                        </div>
+                                        <hr />
+                                        <div class="input-group mb-4">
+                                             @Html.TextBoxFor(m => m.ProdName, new
+                                             {
+                                                  placeholder = "Product Name",
+                                                  name = "ProdName",
+                                                  id = "ProdName",
+                                                  @class = "form-control"
+                                             })
+                                             <span class="md-line"></span>
+                                        </div>
+                                        <div class="input-group mb-4">
+                                             @Html.TextBoxFor(m => m.Category, new
+                                             {
+                                                  placeholder = "Product Category",
+                                                  name = "Category",
+                                                  id = "Category",
+                                                  @class = "form-control"
+                                             })
+                                             <span class="md-line"></span>
+                                        </div>
+                                        <div class="input-group mb-4">
+                                             @Html.TextBoxFor(m => m.Price, new
+                                             {
+                                                  placeholder = "Price",
+                                                  name = "Price",
+                                                  id = "Price",
+                                                  @type = "number",
+                                                  @class = "form-control"
+                                             })
+                                             <span class="md-line"></span>
+                                        </div>
+                                        <div class="input-group mb-4">
+                                             @Html.TextAreaFor(m => m.Description, new
+                                             {
+                                                  placeholder = "Product Description",
+                                                  name = "Description",
+                                                  id = "Description",
+                                                  @class = "form-control"
+                                             })
+                                             <span class="md-line"></span>
+                                        </div>
+                                        <div class="input-group mb-4">
+                                             @Html.TextBoxFor(m => m.ImgURL, new
+                                             {
+                                                  placeholder = "URL to image",
+                                                  name = "ImgURL",
+                                                  id = "ImgURL",
+                                                  @class = "form-control"
+                                             })
+                                             <span class="md-line"></span>
+                                        </div>
+                                        <div class="row">
+                                             <div class="col-md-12">
+                                                  <input type="submit" class="btn btn-primary btn-md btn-block waves-effect text-center" value="Add">
+                                             </div>
+                                        </div>
+                                   }
+                              </div>
+                         </form>
+                    </div>
+               </div>
+          </div>
+     </div>
+</section>
+<!-- Product-add end -->

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "233318b3-0763-4980-86de-427b514f08e0": {
+      "ProjectGuid": "233318b3-0763-4980-86de-427b514f08e0",
+      "DisplayName": "MaleFashion.Web",
+      "ColorIndex": 0
+    },
+    "209fbf9b-7ead-4d8e-9d9f-7090b3455a4b": {
+      "ProjectGuid": "209fbf9b-7ead-4d8e-9d9f-7090b3455a4b",
+      "DisplayName": "MaleFashion.BusinessLogic",
+      "ColorIndex": 1
+    },
+    "87f1cf92-f9ee-4b20-ab80-84a4f83b3c5e": {
+      "ProjectGuid": "87f1cf92-f9ee-4b20-ab80-84a4f83b3c5e",
+      "DisplayName": "MaleFashion.Domain",
+      "ColorIndex": 2
+    },
+    "fb999a4d-6cec-45b5-9d68-d45196aa6160": {
+      "ProjectGuid": "fb999a4d-6cec-45b5-9d68-d45196aa6160",
+      "DisplayName": "MaleFashion.Helpers",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

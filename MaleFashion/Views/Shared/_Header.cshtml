@@ -1,0 +1,106 @@
+﻿<!-- Header Section Begin -->
+@using MaleFashion.Domain.Enums;
+
+<header class="header">
+     <div class="header__top">
+          <div class="container">
+               <div class="row">
+                    <div class="col-lg-6 col-md-7">
+                         <div class="header__top__left">
+                              <p>Free shipping, 30-day return or refund guarantee.</p>
+                         </div>
+                    </div>
+                    <div class="col-lg-6 col-md-5">
+                         <div class="header__top__right">
+
+                              @if (Model == null || Model.Username == null)
+                              {
+                                   <div class="header__top__links">
+                                        <a href="@Url.Action("Index", "SignIn")">Sign in</a>
+                                   </div>
+                              }
+                              else
+                              {
+                                   if (Model.Level == URole.Admin)
+                                   {
+                                        <div class="header__top__user mr-5">
+                                             <a href="@Url.Action("Index", "Admin")">
+                                                  <span>
+                                                       Admin panel
+                                                       <i class="fa fa-user" aria-hidden="true"></i>
+                                                  </span>
+                                             </a>
+                                        </div>
+                                   }
+                                   else
+                                   {
+                                        <div class="header__top__user mr-5">
+                                             <a href="@Url.Action("UserProfile", "Profile")">
+                                                  <span>
+                                                       @Model.Username
+                                                       <i class="fa fa-user" aria-hidden="true"></i>
+                                                  </span>
+                                             </a>
+                                        </div>
+                                   }
+
+
+                                   <div class="header__top__links">
+                                        <a href="@Url.Action("Logout","Profile")">Log-out</a>
+                                   </div>
+                              }
+
+                              <div class="header__top__hover">
+                                   <span>
+                                        Usd
+                                        <i class="fa fa-caret-down" aria-hidden="true"></i>
+                                   </span>
+                                   <ul>
+                                        <li>USD</li>
+                                        <li>EUR</li>
+                                   </ul>
+                              </div>
+                         </div>
+                    </div>
+               </div>
+          </div>
+     </div>
+     <div class="container">
+          <div class="row">
+               <div class="col-lg-3 col-md-3">
+                    <div class="header__logo">
+                         <a href="@Url.Action("Index", "Home")"><img src="~/Images/logo.png" alt="" /></a>
+                    </div>
+               </div>
+               <div class="col-lg-6 col-md-6">
+                    <nav class="header__menu mobile-menu">
+                         <ul>
+                              <li class="active"><a href="@Url.Action("Index", "Home")">Home</a></li>
+                              <li><a href="@Url.Action("Index", "Shop")">Shop</a></li>
+                              <li><a href="@Url.Action("Index", "Contacts")">Contacts</a></li>
+                         </ul>
+                    </nav>
+               </div>
+               <div class="col-lg-3 col-md-3">
+                    <div class="header__nav__option">
+                         <a href="#" class="search-switch">
+                              <i class="fa fa-search" aria-hidden="true"></i>
+                         </a>
+                         @if (Model != null && Model.Username != null)
+                         {
+                              <a href="#">
+                                   <i class="fa fa-heart" aria-hidden="true"></i>
+                              </a>
+                              <a href="/Cart">
+                                   <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                                   <span class="badge badge-pill badge-light">@Model.CartProducts</span>
+                              </a>
+                              <div class="price">$0.00</div>
+                         }
+                     </div>
+               </div>
+          </div>
+          <div class="canvas__open"><i class="fa fa-bars"></i></div>
+     </div>
+</header>
+<!-- Header Section End -->

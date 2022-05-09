@@ -1,0 +1,86 @@
+﻿@{
+     Layout = "~/Views/Shared/_Layout_Blank.cshtml";
+     ViewBag.Title = "Sign Up";
+}
+
+@using System.Web.Optimization
+@model MaleFashion.Web.Models.UserRegister
+
+<!-- Sign-Up begin -->
+<section class="login p-fixed d-flex text-center bg-primary common-img-bg">
+     <!-- Container-fluid starts -->
+     <div class="container">
+          <div class="row">
+               <div class="col-sm-12">
+                    <!-- Authentication card start -->
+                    <div class="login-card card-block auth-body mr-auto ml-auto">
+                         <form class="md-float-material">
+                              <div class="text-center mb-5">
+                                   <img src="~/Images/logo.png" alt="logo.png" />
+                              </div>
+                              <div class="auth-box">
+                                   @using (Html.BeginForm("Index", "SignUp", FormMethod.Post, new { autocomplete = "off" })) { }
+                                   @using (Html.BeginForm("Index", "SignUp", FormMethod.Post, new { autocomplete = "off" }))
+                                   {
+                                        @Html.AntiForgeryToken()
+                                        <div class="row">
+                                             <div class="col-md-12">
+                                                  <h3 class="text-left txt-primary">Sign Up</h3>
+                                             </div>
+                                        </div>
+                                        <hr />
+                                        <div class="input-group mb-4">
+                                             @Html.TextBoxFor(m => m.Username, new
+                                             {
+                                                  placeholder = "Your UserName",
+                                                  value = "",
+                                                  name = "UserName",
+                                                  id = "UserName",
+                                                  @class = "form-control"
+                                             })
+                                             <span class="md-line"></span>
+                                        </div>
+                                        <div class="input-group mb-4">
+                                             @Html.TextBoxFor(m => m.Email, new
+                                             {
+                                                  placeholder = "Your Email Address",
+                                                  value = "",
+                                                  name = "Email",
+                                                  id = "Email",
+                                                  @class = "form-control"
+                                             })
+                                             <span class="md-line"></span>
+                                        </div>
+                                        <div class="input-group mb-4">
+                                             @Html.PasswordFor(m => m.Password, new
+                                             {
+                                                  @class = "form-control",
+                                                  type = "password",
+                                                  placeholder = "Password",
+                                                  value = "",
+                                                  name = "Password",
+                                                  id = "Password"
+                                             })
+                                             <span class="md-line"></span>
+                                        </div>
+                                        <div class="row mt-3 mb-5 text-left">
+                                             <div class="col-12 forgot-phone text-left">
+                                                  <a href="/SignIn" class="text-right f-w-600 text-inverse">
+                                                       Already have an account?
+                                                  </a>
+                                             </div>
+                                        </div>
+                                        <div class="row">
+                                             <div class="col-md-12">
+                                                  <input type="submit" class="btn btn-primary btn-md btn-block waves-effect text-center" value="Sign Up">
+                                             </div>
+                                        </div>
+                                   }
+                              </div>
+                         </form>
+                    </div>
+               </div>
+          </div>
+     </div>
+</section>
+<!-- Sign-Up end -->

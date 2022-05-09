@@ -1,0 +1,102 @@
+﻿@{
+     Layout = "~/Views/Shared/_Layout_Blank.cshtml";
+     ViewBag.Title = "Sign In";
+}
+
+@using System.Web.Optimization
+@model MaleFashion.Web.Models.UserLogin
+
+<!-- Sign-in begin -->
+<section class="login p-fixed d-flex text-center bg-primary common-img-bg">
+     <!-- Container-fluid starts -->
+     <div class="container">
+          <div class="row">
+               <div class="col-sm-12">
+                    <!-- Authentication card start -->
+                    <div class="login-card card-block auth-body mr-auto ml-auto">
+                         <form class="md-float-material">
+                              <div class="text-center mb-5">
+                                   <img src="~/Images/logo.png" alt="logo.png" />
+                              </div>
+                              <div class="auth-box">
+                                   <div class="row">
+                                        <div class="col-md-12">
+                                             <h3 class="text-left txt-primary">Sign In</h3>
+                                        </div>
+                                   </div>
+                                   <hr />
+                                   @using (Html.BeginForm("Index", "SignIn", FormMethod.Post, new { autocomplete = "off" })) { }
+                                   @using (Html.BeginForm("Index", "SignIn", FormMethod.Post, new { autocomplete = "off" }))
+                                   {
+                                        @Html.AntiForgeryToken()
+                                        <div class="input-group mb-4">
+                                             @Html.TextBoxFor(m => m.Username, new
+                                             {
+                                                  placeholder = "Your Email Address",
+                                                  value = "",
+                                                  name = "username",
+                                                  id = "username",
+                                                  @class = "form-control"
+                                             })
+                                             <span class="md-line"></span>
+                                        </div>
+
+                                        <div class="input-group mb-4">
+                                             @Html.PasswordFor(m => m.Password, new
+                                             {
+                                                  @class = "form-control",
+                                                  type = "password",
+                                                  placeholder = "Password",
+                                                  value = "",
+                                                  name = "password",
+                                                  id = "password"
+                                             })
+                                             <span class="md-line"></span>
+                                        </div>
+
+                                        <div class="row mt-3 mb-5 text-left">
+                                             <div class="col-12 checkbox-fade fade-in-primary d-">
+                                                  <label>
+                                                       <input type="checkbox" value="" />
+                                                       <span class="cr">
+                                                            <i class="cr-icon icofont icofont-ui-check txt-primary"></i>
+                                                       </span>
+                                                       <span class="text-inverse">Remember me</span>
+                                                  </label>
+                                             </div>
+                                             <div class="col-12">
+                                                  <div class="row">
+                                                       <div class="col-12 col-sm-7 forgot-phone text-sm-left">
+                                                            <a href="/SignUp" class="text-right f-w-600 text-inverse">
+                                                                 Don't have an account yet?
+                                                            </a>
+                                                       </div>
+                                                       <div class="col-12 col-sm-5 forgot-phone text-sm-right">
+                                                            <a href="/ResetPassword" class="text-right f-w-600 text-inverse">
+                                                                 Forgot Password?
+                                                            </a>
+                                                       </div>
+                                                  </div>
+                                             </div>
+                                        </div>
+                                        <div class="row">
+                                             <div class="col-md-12">
+                                                  <input type="submit" class="btn btn-primary btn-md btn-block waves-effect text-center" value="Sign In">
+                                             </div>
+                                        </div>
+                                   }
+                                   @*@using (Html.BeginForm("Index", "SignIn", FormMethod.Post, new { autocomplete = "off" }))
+          {
+               @Html.AntiForgeryToken()
+               @Html.TextBoxFor(m => m.Username, new { placeholder = "Username" })
+               @Html.TextBoxFor(m => m.Password, new { placeholder = "Password" })
+               <input type="submit" class="btn btn-primary btn-md btn-block waves-effect text-center" value="Sign In">
+          }*@
+                              </div>
+                         </form>
+                    </div>
+               </div>
+          </div>
+     </div>
+</section>
+<!-- Sign-in end -->

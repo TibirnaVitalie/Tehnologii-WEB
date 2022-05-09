@@ -1,0 +1,50 @@
+﻿@using MaleFashion.Domain.Enums
+
+<!-- Product Item Begin -->
+<div class="col-lg-4 col-md-6 col-sm-6">
+     <div class="product__item">
+          <div class="product__item__pic set-bg" data-setbg="Images/product/product-1.jpg">
+               <ul class="product__hover">
+                    <li>
+                         <a href="#">
+                              <i class="fa fa-heart" aria-hidden="true"></i>
+                              <span>Add to favorites</span>
+                         </a>
+                    </li>
+                    <li>
+                         <a href="/Product">
+                              <i class="fa fa-arrows-alt" aria-hidden="true"></i>
+                              <span>View details</span>
+                         </a>
+                    </li>
+
+                    @if (Model != null && (Model.Level == URole.Moderator || Model.Level == URole.Admin))
+                    {
+                         <li>
+                              <a href="/Product">
+                                   <i class="fa fa-pencil" aria-hidden="true"></i>
+                                   <span>Edit</span>
+                              </a>
+                         </li>
+                    }
+
+                    @if (Model != null && Model.Level == URole.Admin)
+                    {
+                         <li>
+                              <a href="/Product">
+                                   <i class="fa fa-trash-o" aria-hidden="true"></i>
+                                   <span>Delete</span>
+                              </a>
+                         </li>
+                    }
+               </ul>
+          </div>
+          <div class="product__item__text">
+               <h6>Name</h6>
+               <a href="#" class="add-cart">+ Add To Cart</a>
+               @Html.Partial("_Rating")
+               <h5>$67.24</h5>
+          </div>
+     </div>
+</div>
+<!-- Product Item End -->

@@ -1,0 +1,24 @@
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Helpers\bin\Debug\MaleFashion.Helpers.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Helpers\bin\Debug\MaleFashion.Helpers.pdb
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Helpers\obj\Debug\MaleFashion.Helpers.csproj.AssemblyReference.cache
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Helpers\obj\Debug\MaleFashion.Helpers.csproj.CoreCompileInputs.cache
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Helpers\obj\Debug\MaleFashion.Helpers.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Helpers\obj\Debug\MaleFashion.Helpers.pdb
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Helpers\bin\Debug\MaleFashion.Helpers.dll.config
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Helpers\bin\Debug\EntityFramework.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Helpers\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Helpers\bin\Debug\EntityFramework.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Helpers\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Helpers\obj\Debug\MaleFashion.Helpers.csproj.CopyComplete
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Helpers\bin\Debug\MaleFashion.Helpers.dll.config
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Helpers\bin\Debug\MaleFashion.Helpers.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Helpers\bin\Debug\MaleFashion.Helpers.pdb
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Helpers\bin\Debug\EntityFramework.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Helpers\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Helpers\bin\Debug\EntityFramework.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Helpers\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Helpers\obj\Debug\MaleFashion.Helpers.csproj.AssemblyReference.cache
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Helpers\obj\Debug\MaleFashion.Helpers.csproj.CoreCompileInputs.cache
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Helpers\obj\Debug\MaleFashion.Helpers.csproj.CopyComplete
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Helpers\obj\Debug\MaleFashion.Helpers.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Helpers\obj\Debug\MaleFashion.Helpers.pdb

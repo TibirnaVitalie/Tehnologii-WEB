@@ -1,0 +1,30 @@
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\bin\Debug\MaleFashion.Domain.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\bin\Debug\MaleFashion.Domain.pdb
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\bin\Debug\MaleFashion.Helpers.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\bin\Debug\MaleFashion.Helpers.pdb
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\obj\Debug\MaleFashion.Domain.csproj.AssemblyReference.cache
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\obj\Debug\MaleFashion.Domain.csproj.CoreCompileInputs.cache
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\obj\Debug\MaleFashion.Domain.csproj.CopyComplete
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\obj\Debug\MaleFashion.Domain.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\obj\Debug\MaleFashion.Domain.pdb
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\bin\Debug\MaleFashion.Domain.dll.config
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\bin\Debug\EntityFramework.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\bin\Debug\MaleFashion.Helpers.dll.config
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\bin\Debug\EntityFramework.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\bin\Debug\MaleFashion.Domain.dll.config
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\bin\Debug\MaleFashion.Domain.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\bin\Debug\MaleFashion.Domain.pdb
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\bin\Debug\EntityFramework.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\bin\Debug\MaleFashion.Helpers.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\bin\Debug\MaleFashion.Helpers.pdb
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\bin\Debug\MaleFashion.Helpers.dll.config
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\bin\Debug\EntityFramework.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\obj\Debug\MaleFashion.Domain.csproj.AssemblyReference.cache
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\obj\Debug\MaleFashion.Domain.csproj.CoreCompileInputs.cache
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\obj\Debug\MaleFashion.Domain.csproj.CopyComplete
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\obj\Debug\MaleFashion.Domain.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.Domain\obj\Debug\MaleFashion.Domain.pdb

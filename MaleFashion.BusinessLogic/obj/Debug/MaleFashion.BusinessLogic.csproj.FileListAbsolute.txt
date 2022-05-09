@@ -1,0 +1,142 @@
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.BusinessLogic.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.BusinessLogic.pdb
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.Domain.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.Helpers.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.Domain.pdb
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.Helpers.pdb
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\obj\Debug\MaleFashion.BusinessLogic.csproj.AssemblyReference.cache
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\obj\Debug\MaleFashion.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\obj\Debug\MaleFashion.BusinessLogic.csproj.CopyComplete
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\obj\Debug\MaleFashion.BusinessLogic.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\obj\Debug\MaleFashion.BusinessLogic.pdb
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.BusinessLogic.dll.config
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.Domain.dll.config
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.Helpers.dll.config
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\AutoMapper.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Options.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Win32.Registry.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\System.Buffers.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\System.Security.AccessControl.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\System.Security.Principal.Windows.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\System.Text.Encodings.Web.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\System.ValueTuple.dll
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\AutoMapper.pdb
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\AutoMapper.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Options.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\System.Buffers.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\System.Text.Encodings.Web.xml
+D:\UTM\Sem IV\TW\Laboratoare\MaleFashion.BusinessLogic\bin\Debug\System.ValueTuple.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.BusinessLogic.dll.config
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.BusinessLogic.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.BusinessLogic.pdb
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\AutoMapper.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.Domain.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.Helpers.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Options.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Win32.Registry.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\System.Buffers.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\System.Security.AccessControl.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\System.Security.Principal.Windows.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\System.Text.Encodings.Web.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\System.ValueTuple.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.Domain.pdb
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.Domain.dll.config
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.Helpers.pdb
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\MaleFashion.Helpers.dll.config
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\AutoMapper.pdb
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\AutoMapper.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Options.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\System.Buffers.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\System.Text.Encodings.Web.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\bin\Debug\System.ValueTuple.xml
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\obj\Debug\MaleFashion.BusinessLogic.csproj.AssemblyReference.cache
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\obj\Debug\MaleFashion.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\obj\Debug\MaleFashion.BusinessLogic.csproj.CopyComplete
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\obj\Debug\MaleFashion.BusinessLogic.dll
+D:\UTM\Sem IV\TW\Laboratoare - Copie\MaleFashion.BusinessLogic\obj\Debug\MaleFashion.BusinessLogic.pdb
