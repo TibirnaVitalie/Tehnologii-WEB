@@ -1,4 +1,8 @@
 ﻿using System;
+using System.IO;
+using System.Security.Cryptography;
+using System.Collections.Generic;
+using System.Web;
 using System.Web.Mvc;
 using MaleFashion.Web.Extension;
 using MaleFashion.Web.Models;
@@ -45,8 +49,27 @@ namespace MaleFashion.Web.Controllers
           }
 
           [AdminMod]
-          public ActionResult ProductAdd(ProductAddData data)
-          {              
+          public ActionResult ProductAdd(HttpPostedFileBase file, ProductAddData data)
+          {
+               string fileName;
+               if (file != null)
+               {
+                    FileInfo fi = new FileInfo(file.FileName);
+                    if (file != null && file.ContentLength > 0)
+                    {
+                         using (var md5 = MD5.Create())
+                         {
+                              fileName = BitConverter.ToString(md5.ComputeHash(file.InputStream)).Replace("-", "");
+                              data.ImgURL = "Images/Products/" + fileName + fi.Extension;
+                              string ImageFile = Path.Combine(Server.MapPath("~/Images/Products/"), fileName + fi.Extension);
+                              if (!System.IO.File.Exists(ImageFile))
+                              {
+                                   file.SaveAs(ImageFile);
+                              }
+                         }
+                    }
+               }
+
                if (ModelState.IsValid)
                {
                     ProductAddData prodData = new ProductAddData()
@@ -99,8 +122,27 @@ namespace MaleFashion.Web.Controllers
 
           [HttpPost]
           [ValidateAntiForgeryToken]
-          public ActionResult ProductUpdate(EditProductData productData)
+          public ActionResult ProductUpdate(HttpPostedFileBase file, EditProductData productData)
           {
+               string fileName;
+               if (file != null)
+               {
+                    FileInfo fi = new FileInfo(file.FileName);
+                    if (file != null && file.ContentLength > 0)
+                    {
+                         using (var md5 = MD5.Create())
+                         {
+                              fileName = BitConverter.ToString(md5.ComputeHash(file.InputStream)).Replace("-", "");
+                              productData.ImgURL = "Images/Products/" + fileName + fi.Extension;
+                              string ImageFile = Path.Combine(Server.MapPath("~/Images/Products/"), fileName + fi.Extension);
+                              if (!System.IO.File.Exists(ImageFile))
+                              {
+                                   file.SaveAs(ImageFile);
+                              }
+                         }
+                    }
+               }
+
                if (ModelState.IsValid)
                {
                     var config = new MapperConfiguration(cfg => cfg.CreateMap<EditProductData, ProductUpdateData>());

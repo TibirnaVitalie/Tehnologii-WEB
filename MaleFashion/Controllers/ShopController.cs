@@ -1,5 +1,4 @@
 ﻿using System.Web.Mvc;
-using MaleFashion.Web.App_Start;
 using MaleFashion.Web.Extension;
 using MaleFashion.Web.Models;
 

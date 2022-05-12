@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 using MaleFashion.Web.Extension;
-using MaleFashion.Domain.Entities.User;
+using MaleFashion.Web.Models;
 
 namespace MaleFashion.Web.Controllers
 {
@@ -10,25 +10,25 @@ namespace MaleFashion.Web.Controllers
           public ActionResult Index()
           {
                SessionStatus();
-               if ((string)System.Web.HttpContext.Current.Session["LoginStatus"] == "login")
+               if ((string)System.Web.HttpContext.Current.Session["LoginStatus"] != "login")
                {
-                    var user = System.Web.HttpContext.Current.GetMySessionObject();
-                    UserMinimal um = new UserMinimal
+                    return View(new MainData()
                     {
-                         Id = user.Id,
-                         Username = user.Username,
-                         Email = user.Email,
-                         LastLogin = user.LastLogin,
-                         LasIp = user.LasIp,
-                         Level = user.Level,
-                         CartProducts = user.CartProducts
-                    };
-                    return View(um);
+                         Products = GetProduct()
+                    }
+                    );
                }
-               else
+
+               var user = System.Web.HttpContext.Current.GetMySessionObject();     //obtain user data from session
+
+               MainData data = new MainData()    //merge product and user data to send in index 
                {
-                    return View();
-               }
+                    Username = user.Username,
+                    Level = user.Level,
+                    CartProducts = user.CartProducts,
+                    Products = GetProduct()
+               };
+               return View(data);
           }
      }
 }
